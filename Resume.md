@@ -17,6 +17,7 @@
          </span>
      </div>
  </center>
+ 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 熟悉Python，熟悉numpy，熟悉tensorflow 
