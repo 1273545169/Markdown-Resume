@@ -17,40 +17,42 @@
          </span>
      </div>
  </center>
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
-
- - 了解基本的机器学习算法 
  - 熟悉Python，熟悉numpy，熟悉tensorflow 
  - 了解CNN的经典模型
  - 熟悉**FaceNet**算法 
  - 熟悉**YOLO**系列，了解**Faster R-CNN**  
  - 能熟练阅读英语论文
- - 可以实习4个月，每周4天以上 
+ - 可实习3个月，每周4天以上，可立即入职
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，**北京航空航天大学**，计算机技术专业，2017.9~2020.1
-- 学士，山东大学，计算机科学与技术专业，2013.9~2017.7
+- 硕士 | **北京航空航天大学**| 计算机技术专业 | 2017.9~**2020.1**
+- 学士 | 山东大学 | 计算机科学与技术专业 | 2013.9~2017.7
 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **动物特征识别项目，2018.04 - 2018.06**
-  项目描述： 
+#### 动物特征识别项目，2018.04 - 2018.06
+
+项目描述：
+
+此动物特征识别项目主要用于食品安全方面，通过
+
 给定一只羊识别是数据库中的哪一只。 检测部分采用yolo；识别部分基于FaceNet实现。
 
 主要流程如下：
 
-（1）采用opencv2实现从摄像头读取视频帧； 
+- 采用opencv2实现从摄像头读取视频帧； 
 
-（2）对读取的视频帧采用yolo方法，检测羊脸，裁剪输入下一步；
+- 对读取的视频帧采用yolo方法，检测羊脸，裁剪输入下一步；
 
-（3）通过FaceNet网络得到羊脸的embedding，embedding维度为128；
+- 通过FaceNet网络得到羊脸的embedding，embedding维度为128；
 
-（4）对羊脸的embedding特征采用knn进行分类，实现羊脸识别。
+- 对羊脸的embedding特征采用knn进行分类，实现羊脸识别。
   
-  - **人数统计项目，2018.10-2018.12**
+#### 人数统计项目，2018.10-2018.12
   
   项目描述： 
   
