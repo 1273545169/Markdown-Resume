@@ -23,14 +23,14 @@
  - 了解基本的机器学习算法 
  - 熟悉Python，熟悉numpy，熟悉tensorflow 
  - 了解CNN的经典模型
- - 熟悉FaceNet算法 
- - 熟悉YOLO系列，了解Faster R-CNN  
+ - 熟悉**FaceNet**算法 
+ - 熟悉**YOLO**系列，了解**Faster R-CNN**  
  - 能熟练阅读英语论文
  - 可以实习4个月，每周4天以上 
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，北京航空航天大学，计算机技术专业，2017.9~2020.1
+- 硕士，**北京航空航天大学**，计算机技术专业，2017.9~2020.1
 - 学士，山东大学，计算机科学与技术专业，2013.9~2017.7
 
 
