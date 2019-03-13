@@ -23,14 +23,6 @@
      </div>
  </center>
  
-## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
-
- - 熟悉Python，熟悉numpy，熟悉tensorflow 
- - 了解CNN的经典模型
- - 熟悉**FaceNet**算法 
- - 熟悉**YOLO**系列，了解**Faster R-CNN**  
- - 能熟练阅读英语论文
- - 可连续实习5个月，每周4天以上
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -40,17 +32,19 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-#### 一、动物特征识别项目，2018.04 - 2018.06
+#### 一、动物特征识别项目，2018.04 - 2018.08
 
-此动物特征识别项目主要用于食品安全方面，通过扫描羊脸可追溯其来源。基于YOLO和FaceNet实现。
+- 项目介绍：此动物特征识别项目主要用于食品安全方面，通过扫描羊脸可追溯其来源。基于YOLO和FaceNet实现。
 
-- 采用opencv2从摄像头读取视频帧； 
+- 主要负责：
 
-- 采用yolo方法，检测羊脸；
+ - 采用opencv2从摄像头读取视频帧； 
 
-- 将羊脸输入识别网络得到羊脸的Embedding，Embedding维度为128；
+ - 采用yolo方法，检测羊脸；
 
-- 对羊脸的Embedding采用KNN进行分类，实现羊脸识别。
+ - 将羊脸输入识别网络得到羊脸的Embedding，Embedding维度为128；
+
+ - 对羊脸的Embedding采用KNN进行分类，实现羊脸识别。
 
 在实践过程中，因为目标样本量少，采用了数据增强和迁移学习来防止过拟合。
   
@@ -59,6 +53,19 @@
   项目描述： 
   
 统计一张图片中的人数，基于YOLOv3来实现。
+
+
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人总结
+
+ - 熟悉Python，熟悉numpy，熟悉tensorflow 
+ 
+ - 熟悉**FaceNet**算法 
+ 
+ - 熟悉**YOLO**系列，了解**Faster R-CNN**  
+ 
+ - 能熟练阅读英语论文
+ 
+ - 可连续实习5个月，每周4天以上
 
   
 
