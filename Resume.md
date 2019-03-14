@@ -23,11 +23,11 @@
      </div>
  </center>
  
-  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 女， 1995年出生
  
- - **求职意向：旷世科技，Detection组，
+ - **求职意向**：旷世科技，Detection组
  
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
@@ -37,30 +37,40 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-###### 一、动物特征识别项目，2018.04 - 2018.08
+##### 一、动物特征识别项目，2018.04 - 2018.08
 
-- 项目介绍：此动物特征识别项目主要用于食品安全方面，通过扫描羊脸可追溯其来源。基于YOLO和FaceNet实现。
+- 项目描述：此动物特征识别项目主要用于食品安全方面，通过扫描羊脸可追溯其来源。
 
-- 主要负责：
+- 关键技术：YOLOv3 + FaceNet
 
- - 采用opencv2从摄像头读取视频帧； 
+- 编程语言：TensorFlow + Python
 
- - 采用yolo方法，检测羊脸；
+- 负责工作：
 
- - 将羊脸输入识别网络得到羊脸的Embedding，Embedding维度为128；
+  - 使用YOLOv3算法检测羊脸；
 
- - 对羊脸的Embedding采用KNN进行分类，实现羊脸识别。
+  - 将检测到的羊脸输入到FaceNet网络得到羊的Embedding；
 
-在实践过程中，因为目标样本量少，采用了数据增强和迁移学习来防止过拟合。
+  - 对羊脸的Embedding采用KNN进行分类，实现羊脸识别。
+
+  - 在实践过程中，因为目标样本量少，采用了数据增强和迁移学习来防止过拟合。
   
-#### 二、人数统计项目，2018.10-2018.12
-  
-  项目描述： 
-  
-统计一张图片中的人数，基于YOLOv3来实现。
+##### 二、人群计数项目，2018.10-至今
 
+- 项目描述： 此项目主要用于公交车中人群计数，每隔几分钟统计一次车内人数，将车内状态反馈给用户。
+  
+- 关键技术：YOLOv3 
 
- ## <img src="assets/tools-solid.svg" width="30px"> 个人总结
+- 编程语言：TensorFlow + Python
+
+- 负责工作：
+
+  - 使用YOLOv3算法检测车厢全景，统计车内人数
+
+  - 在实践过程中，因为目标样本量少，采用了数据增强和迁移学习来防止过拟合。
+  
+  
+ ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
  - 熟悉Python，熟悉numpy，熟悉tensorflow 
  
@@ -72,8 +82,5 @@
  
  - 可连续实习5个月，每周4天以上
 
-  
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
-
+ 
 
