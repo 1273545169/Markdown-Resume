@@ -23,16 +23,21 @@
      </div>
  </center>
  
+  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+
+ - 女， 1995年出生
+ 
+ - **求职意向：旷世科技，Detection组，
+ 
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，**北京航空航天大学**，计算机技术专业 ，2017.9~**2020.1**
 - 学士 ，山东大学 ，计算机科学与技术专业 ，2013.9~2017.7
-
+- 硕士，**北京航空航天大学**，计算机技术专业 ，2017.9~**2020.1**
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-#### 一、动物特征识别项目，2018.04 - 2018.08
+###### 一、动物特征识别项目，2018.04 - 2018.08
 
 - 项目介绍：此动物特征识别项目主要用于食品安全方面，通过扫描羊脸可追溯其来源。基于YOLO和FaceNet实现。
 
@@ -55,13 +60,13 @@
 统计一张图片中的人数，基于YOLOv3来实现。
 
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人总结
+ ## <img src="assets/tools-solid.svg" width="30px"> 个人总结
 
  - 熟悉Python，熟悉numpy，熟悉tensorflow 
  
  - 熟悉**FaceNet**算法 
  
- - 熟悉**YOLO**系列，了解**Faster R-CNN**  
+ - 熟悉**YOLO**系列，了解**Faster R-CNN、SSD**  
  
  - 能熟练阅读英语论文
  
