@@ -24,8 +24,6 @@
  </center>
  
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
-
- - 女， 1995年出生
  
  - **求职意向**：旷世科技，Detection组
  
@@ -63,20 +61,16 @@
 
 - 编程语言：TensorFlow + Python
 
-- 负责工作：
+- 负责工作：使用YOLOv3算法检测车厢全景，统计车内人数
 
-  - 使用YOLOv3算法检测车厢全景，统计车内人数
 
-  - 在实践过程中，因为目标样本量少，采用了数据增强和迁移学习来防止过拟合。
-  
-  
  ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
  - 熟悉Python，熟悉numpy，熟悉tensorflow 
  
  - 熟悉**FaceNet**算法 
  
- - 熟悉**YOLO**系列，了解**Faster R-CNN、SSD**  
+ - 熟悉**YOLO**系列，**Faster R-CNN、SSD**  
  
  - 能熟练阅读英语论文
  
