@@ -23,6 +23,10 @@
      </div>
  </center>
  
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ 
+ - **求职意向**：旷世科技，Detection组
+ 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 学士 ，山东大学 ，计算机科学与技术专业 ，2013.9~2017.7
