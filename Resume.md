@@ -23,11 +23,6 @@
      </div>
  </center>
  
-## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
- 
- - **求职意向**：旷世科技，Detection组
- 
-
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 学士 ，山东大学 ，计算机科学与技术专业 ，2013.9~2017.7
@@ -53,7 +48,7 @@
 
   - 在实践过程中，因为目标样本量少，采用了数据增强和迁移学习来防止过拟合。
   
-##### 二、人群计数项目，2018.10-至今
+##### 二、人群计数项目，2018.10-
 
 - 项目描述： 此项目主要用于公交车中人群计数，每隔几分钟统计一次车内人数，将车内状态反馈给用户。
   
@@ -61,7 +56,7 @@
 
 - 编程语言：TensorFlow + Python
 
-- 负责工作：使用YOLOv3算法检测车厢全景，统计车内人数
+- 负责工作：基于YOLOv3算法检测车厢全景，统计车内人数
 
 
  ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
