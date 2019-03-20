@@ -25,11 +25,14 @@
  
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
  
- - **求职意向**：旷世科技，Detection组
+ - **求职意向**：视见科技，算法工程师（实习）
+ 
+ - **实习时间**：可连续实习五个月，每周四个工作日
  
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 学士 ，山东大学 ，计算机科学与技术专业 ，2013.9~2017.7
+
 - 硕士，**北京航空航天大学**，计算机技术专业 ，2017.9~**2020.1**
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
@@ -73,7 +76,6 @@
  
  - 能熟练阅读英语论文
  
- - 可连续实习5个月，每周4天以上
 
  
 
