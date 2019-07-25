@@ -17,6 +17,7 @@
          </span>
      </div>
  </center>
+ 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 2017.09 - 2020.01            **北京航空航天大学                 计算机技术专业                         硕士**
