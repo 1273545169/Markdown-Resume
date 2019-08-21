@@ -1,6 +1,12 @@
- <center>
-     <h2>申婷婷</h2>
+###  申婷婷<img src='tingtingshen.jpg' width='100px' align='right'>
+
+<left>
      <div>
+         <span>
+             <img src="assets/info-circle-solid.svg" width="18px">
+             24岁 山西临汾
+         </span>
+        ·
          <span>
              <img src="assets/phone-solid.svg" width="18px">
              18811353630
@@ -15,13 +21,10 @@
              <img src="assets/rss-solid.svg" width="18px">
              <a href="https://blog.csdn.net/baidu_27643275">Blog</a>
          </span>
-         ·
-         <span>
-             <img src="assets/info-circle-solid.svg" width="18px">
-             图像算法工程师
-         </span>
      </div>
- </center>
+ </left>
+
+
 
 ## <img src="assets/graduation-cap-solid.svg" width="25px"> 教育经历
 
@@ -46,14 +49,14 @@
 - 负责工作：
   - 以羊脸为识别目标，先进行羊脸检测再进行特征提取得到羊脸的Embedding；
   - 对羊脸的Embedding采用KNN进行分类，实现羊脸识别。
-- 关键技术：TensorFlow + Python
+- 关键技术：TensorFlow + Python 
 
 ##### 2018.09 - 2018.12            &emsp;     公交客流统计                                
 
 - 项目描述：实时对公交车上下车乘客数进行统计，实现公交自主客流量统计。
 - 负责工作：
   - 以头肩为识别目标，进行人体检测和追踪，根据目标轨迹判断进出区域方向，实现动态人数统计。
-- 关键技术：TensorFlow + Python
+- 关键技术：Pytorch + Python
 
 ##### 2019.03 - 2019.12            &emsp;     基于小波和卷积的语义分割建模方法研究                                
 
